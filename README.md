@@ -1,6 +1,7 @@
 # Presentations
 
 - <a href="splunk-network-connectivity/">Using Splunk to Monitor Network Connectivity and Quality</a>
+   - Original Project: <a href="https://github.com/dmuth/splunk-network-health-check">https://github.com/dmuth/splunk-network-health-check</a>
 
 
 ## Contact
